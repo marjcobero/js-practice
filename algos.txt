@@ -1,0 +1,48 @@
+Boolean has only two possible values: true and false.
+String is any sequence of characters, contained between quotation marks.
+Number can store a huge range of numerical values from extremely large values to microscopically small ones, to incredibly negative values as well. 
+
+
+
+
+What is source code?
+    code that is written by a software engineer
+
+What makes computers so “smart”, anyway?
+    computers can rapidly perform complex calculations, store immense amount of data, and almost instantly retrieve specific bits of information from mountains of data.
+
+What is the purpose of a programming language? 
+    they read in a series of human-readable steps instructing a computer how to respond, and they translate the steps into a format the computer can understand and later execute.
+
+What are 3 examples of programming languages? Why are there so many of these?
+    PHP, Python, Ruby, JavaScript, Swift, C#, Java, Perl, Erlang, Go, Rust; each language has different strengths
+
+What is a variable? Why are variables useful?
+    it is a specific spot in memory, with a label that you give it. (var myName = "luffy"; )
+
+What is the difference between a single-equals (=) and a double-equals (==)?
+    Use = to set things; == to test things. Single-equals is for assignment; double-equals is for comparison.
+
+
+What is the difference between a double-equals (==) and a triple-equals (===)? 
+    strict comparison without converting data types, use the === operator.
+
+Why does the developer console exist?
+    To log a message to the console, we use console.log(). 
+
+When we talk about “conditional” statements, what does that mean? What is an example?
+    to have a certain test or comparison to be done; IF the test passes, THEN you execute certain code. 
+    ex: if(myName == "Martin")
+{
+    console.log("Hey there Martin, how's it going?");
+}
+
+Why would we want FOR or WHILE loops in our source code?
+    FOR loops are useful when you know how many times those lines of code will run. WHILE loops are slightly better when you don’t know how many times to loop, but you will loop while a certain test continues to be true. 
+
+When would you use a WHILE loop, instead of a FOR loop?
+    WHILE loops are great when you don’t know how many times (iterations) you will loop. 
+
+What is a function? Why would we use functions?
+    As mentioned above, for code that you expect to call often, separate this out into a different part of your file, so these lines of code don’t need to be duplicated each time you print your name
+
